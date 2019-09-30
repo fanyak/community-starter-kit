@@ -1,8 +1,13 @@
+---
+name: Bug Report Template
+about: Describe a bug so we can fix it
+---
+
 ## Platorm where the issue was encountered
-  _ex. mobile platorm, or web browser
+  _Mobile platorm, or web browser
 
 ## Brief discription of the bug
-  _ex.something happens when I was expecting something else to happen
+  _something happens when I was expecting something else to happen
 
 ## Explain how we can reproduce the bug
-  _ex. retrace the steps you took that made the bug happen
+  _Retrace the steps you took that made the bug happen
